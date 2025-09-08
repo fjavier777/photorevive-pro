@@ -1,0 +1,12 @@
+# Processamento de imagem
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Dependências opcionais para melhor performance
+opencv-contrib-python>=4.8.0  # Para algoritmos extras do OpenCV
+scipy>=1.10.0                  # Para processamento científico avançado
+
+# Para desenvolvimento (opcional)
+matplotlib>=3.7.0              # Para visualização de histogramas
+tqdm>=4.65.0                  # Para barras de progresso

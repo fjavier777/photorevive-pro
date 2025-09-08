@@ -1,0 +1,7 @@
+# GUI Dependencies
+-r requirements.txt
+
+# Interface gráfica
+tkinter             # Built-in GUI (usually included)
+PyQt5>=5.15.0      # Alternative GUI framework
+Pillow>=10.0.0     # Image handling for GUI
